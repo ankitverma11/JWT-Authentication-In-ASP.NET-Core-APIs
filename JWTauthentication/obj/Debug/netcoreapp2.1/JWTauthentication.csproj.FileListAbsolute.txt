@@ -1,0 +1,14 @@
+E:\Ankit\WorkArea\JWTauthentication\JWTauthentication\bin\Debug\netcoreapp2.1\JWTauthentication.deps.json
+E:\Ankit\WorkArea\JWTauthentication\JWTauthentication\bin\Debug\netcoreapp2.1\JWTauthentication.runtimeconfig.json
+E:\Ankit\WorkArea\JWTauthentication\JWTauthentication\bin\Debug\netcoreapp2.1\JWTauthentication.runtimeconfig.dev.json
+E:\Ankit\WorkArea\JWTauthentication\JWTauthentication\bin\Debug\netcoreapp2.1\JWTauthentication.dll
+E:\Ankit\WorkArea\JWTauthentication\JWTauthentication\obj\Debug\netcoreapp2.1\JWTauthentication.csprojAssemblyReference.cache
+E:\Ankit\WorkArea\JWTauthentication\JWTauthentication\obj\Debug\netcoreapp2.1\JWTauthentication.csproj.CoreCompileInputs.cache
+E:\Ankit\WorkArea\JWTauthentication\JWTauthentication\obj\Debug\netcoreapp2.1\JWTauthentication.RazorAssemblyInfo.cache
+E:\Ankit\WorkArea\JWTauthentication\JWTauthentication\obj\Debug\netcoreapp2.1\JWTauthentication.RazorAssemblyInfo.cs
+E:\Ankit\WorkArea\JWTauthentication\JWTauthentication\obj\Debug\netcoreapp2.1\JWTauthentication.AssemblyInfoInputs.cache
+E:\Ankit\WorkArea\JWTauthentication\JWTauthentication\obj\Debug\netcoreapp2.1\JWTauthentication.AssemblyInfo.cs
+E:\Ankit\WorkArea\JWTauthentication\JWTauthentication\obj\Debug\netcoreapp2.1\JWTauthentication.RazorTargetAssemblyInfo.cache
+E:\Ankit\WorkArea\JWTauthentication\JWTauthentication\bin\Debug\netcoreapp2.1\JWTauthentication.pdb
+E:\Ankit\WorkArea\JWTauthentication\JWTauthentication\obj\Debug\netcoreapp2.1\JWTauthentication.dll
+E:\Ankit\WorkArea\JWTauthentication\JWTauthentication\obj\Debug\netcoreapp2.1\JWTauthentication.pdb
