@@ -4,6 +4,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using JWTauthentication.Model;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -87,9 +88,5 @@ namespace JWTauthentication.Controllers
         }
     }
 
-    public class User
-    {
-        public string UserName { get; set; }
-        public string Password { get; set; }
-    }
+   
 }
